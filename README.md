@@ -2,7 +2,7 @@
 
 ## Datos Personales
 
-![Este soy yo](./img/YO.jpg)
+![Este soy yo](./img/Presentacion.jpg)
 
 - Edad: 24 Años
 - Soltero
